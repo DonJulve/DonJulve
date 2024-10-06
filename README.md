@@ -31,11 +31,11 @@
 ###
 
 <h3 align="center">Tools Learned and IDEs</h3>
-  <img src="https://skillicons.dev/icons?i=github,git,docker,figma,linux,kali,raspberrypi,neovim,vscode,eclipse,androidstudio,blender&perline=7"/>
+
 ###
 
 <div align="center">
-
+  <img src="https://skillicons.dev/icons?i=github,git,docker,figma,linux,kali,raspberrypi,neovim,vscode,eclipse,androidstudio,blender&perline=7"/>
 </div>
 
 ###
