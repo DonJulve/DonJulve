@@ -1,4 +1,6 @@
-<h1 align="left">Hi, I'm Julve</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=00FF00&width=500&height=70&duration=4000&lines=Welcome!!!+👋;+I%27m+Javier+Julve!;"/>
+</h1>
 
 ###
 
