@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm curious about everything around me, so when a crazy idea occurs to me I try to bring it to life and that's what you'll see here.</p>
+<p align="center">I'm curious about everything around me, so when a crazy idea occurs to me I try to bring it to life and that's what you'll see here.</p>
 
 ###
 
