@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,py,go,lua,arduino,java,ruby,haskell,html,css,javascript,typescript&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,rust,py,go,lua,arduino,java,kotlin,ruby,haskell,html,css,javascript,typescript&perline=8"/>
 </div>
 
 ###
@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,rails,bootstrap,react,postgres,mysql&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,rails,bootstrap,tailwind,flask,django,postgres,mysql,mongo&perline=7"/>
 </div>
 
 ###
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,docker,figma,linux,kali,raspberrypi,neovim,vscode,eclipse,androidstudio,blender&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,figma,linux,kali,raspberrypi,neovim,vscode,eclipse,androidstudio,blender&perline=7"/>
 </div>
 
 ###
