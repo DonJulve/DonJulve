@@ -46,4 +46,8 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DonJulve&langs_count=20&layout=compact&theme=aura&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
 </div>
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DonJulve&theme=aura&show_icons=true"/>
+</div>
+
 ###
