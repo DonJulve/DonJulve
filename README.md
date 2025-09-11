@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">My name is Javier Julve and I'm currently finishing my computer engineering studies in Spain.</h3>
+<h3 align="center">My name is Javier Julve and I'm a computer engineer studying a cibersecurity master in Universidad Complutense de Madrid.</h3>
 
 ###
 
@@ -38,6 +38,19 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,figma,linux,kali,raspberrypi,neovim,vscode,eclipse,androidstudio,blender&perline=7"/>
+</div>
+
+<h3 align="center">Contact Info</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/javier-julve-yubero-188203384" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:anjubla65@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
