@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,rails,bootstrap,tailwind,flask,django,postgres,mysql,mongo&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,rails,bootstrap,tailwind,flask,django,postgres,mysql,sqlite,mongo,cpanel&perline=6"/>
 </div>
 
 ###
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,figma,linux,kali,raspberrypi,neovim,vscode,eclipse,androidstudio,blender&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,redis,figma,linux,kali,raspberrypi,neovim,vscode,eclipse,androidstudio,blender&perline=7"/>
 </div>
 
 <h3 align="center">Contact Info</h3>
