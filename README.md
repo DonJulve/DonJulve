@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,rust,py,go,lua,arduino,java,kotlin,ruby,haskell,html,css,javascript,typescript&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,rust,py,go,lua,arduino,java,kotlin,ruby,haskell,html,css,javascript,typescript,php&perline=6"/>
 </div>
 
 ###
