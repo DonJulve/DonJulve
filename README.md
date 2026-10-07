@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,rails,bootstrap,tailwind,flask,django,postgres,mysql,sqlite,mongo,cpanel&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,rails,bootstrap,tailwind,flask,django,postgres,mysql,sqlite,mongo&perline=6"/>
 </div>
 
 ###
