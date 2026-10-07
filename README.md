@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">My name is Javier Julve and I'm a computer engineer studying a cibersecurity master in Universidad Complutense de Madrid.</h3>
+<h3 align="center">My name is Javier Julve and I'm a Computer Engineer & Cybersecurity Specialist (M.Sc. from Universidad Complutense de Madrid).</h3>
 
 ###
 
